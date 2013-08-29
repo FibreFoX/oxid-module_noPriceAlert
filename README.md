@@ -1,0 +1,2 @@
+oxid-module_noPriceAlert
+========================
