@@ -19,9 +19,4 @@ class nopricealert_oxwarticledetails extends nopricealert_oxwarticledetails_pare
     public function isPriceAlarm() {
         return false;
     }
-    
-    // disables functionality of details-controller
-    public function addme() {
-        return true;
-    }
 }
