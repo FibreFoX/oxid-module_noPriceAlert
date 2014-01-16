@@ -13,9 +13,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     Website: http://www.dynamicfiles.de
     Contact: info@dynamicfiles.de
 */
-class noPriceAlert_details extends noPriceAlert_details_parent{
+class nopricealert_oxwarticledetails extends nopricealert_oxwarticledetails_parent{
 
-    // just disables price-alert in azure-theme
+    // just disables price-alert for all using this widget
     public function isPriceAlarm() {
         return false;
     }

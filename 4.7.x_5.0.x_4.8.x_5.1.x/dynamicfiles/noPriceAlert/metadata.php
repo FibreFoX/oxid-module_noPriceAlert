@@ -24,12 +24,13 @@ $sMetadataVersion = '1.1';
 $aModule = array(
     'id'           => 'noPriceAlert',
     'title'        => 'Anti-Preisalarm',
-    'description'  => 'Deaktiviert das Preisalarm-Feature im Frontend (OXID 4.7.x).',
-    'version'      => '1.1',
+    'description'  => 'Deaktiviert das Preisalarm-Feature im Frontend (OXID 4.7.x/4.8.x).',
+    'version'      => '1.2',
     'author'       => 'Danny Althoff',
     'url'          => 'http://www.dynamicfiles.de',
     'email'        => 'info@dynamicfiles.de',
     'extend'       => array(
-        'details'					=> 'dynamicfiles/noPriceAlert/controllers/noPriceAlert_details',
+        'details'					=> 'dynamicfiles/noPriceAlert/controllers/nopricealert_details',
+        'oxwarticledetails'					=> 'dynamicfiles/noPriceAlert/widgets/nopricealert_oxwarticledetails',
     ),
 );
