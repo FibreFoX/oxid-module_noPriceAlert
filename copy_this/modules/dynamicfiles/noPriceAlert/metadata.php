@@ -8,20 +8,15 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 */
-/*
-    Author: Danny Althoff
-	Website: http://www.dynamicfiles.de
-	Contact: info@dynamicfiles.de
-*/
 $sMetadataVersion = '1.0';
 
 $aModule = array(
     'id'           => 'noPriceAlert',
     'title'        => 'Anti-Preisalarm',
-    'description'  => 'Deaktiviert das Preisalarm-Feature im Frontend (OXID 4.6.x).',
+    'description'  => 'Deaktiviert das Preisalarm-Feature im Frontend (OXID 4.5.x).',
     'version'      => '1.0',
     'author'       => 'Danny Althoff',
-    'url'          => 'http://www.dynamicfiles.de',
+    'url'          => 'https://www.dynamicfiles.de',
     'email'        => 'info@dynamicfiles.de',
     'extend'       => array(
         'details'					=> 'dynamicfiles/noPriceAlert/noPriceAlertDetails',
