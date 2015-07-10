@@ -10,7 +10,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 */
 /*
     Author: Danny Althoff
-	Website: http://www.dynamicfiles.de
+	Website: https://www.dynamicfiles.de
 	Contact: info@dynamicfiles.de
 	
     Filename: noPriceAlertDetails.php

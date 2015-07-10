@@ -10,7 +10,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 */
 /*
     Author: Danny Althoff
-	Website: http://www.dynamicfiles.de
+	Website: https://www.dynamicfiles.de
 	Contact: info@dynamicfiles.de
 */
 $sMetadataVersion = '1.0';
@@ -21,7 +21,7 @@ $aModule = array(
     'description'  => 'Deaktiviert das Preisalarm-Feature im Frontend (OXID 4.6.x).',
     'version'      => '1.0',
     'author'       => 'Danny Althoff',
-    'url'          => 'http://www.dynamicfiles.de',
+    'url'          => 'https://www.dynamicfiles.de',
     'email'        => 'info@dynamicfiles.de',
     'extend'       => array(
         'details'					=> 'dynamicfiles/noPriceAlert/noPriceAlertDetails',

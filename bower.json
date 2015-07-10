@@ -1,0 +1,10 @@
+{
+    "name": "noPriceAlert DynamicFiles OXID Module",
+    "version": "4.6.0",
+    "homepage": "https://www.dynamicfiles.de/Projekte/OXID-eShop-Module/Preisalarm-deaktivieren",
+    "private": true,
+    "main": "copy_this/modules/dynamicfiles/",
+    "ignore":"",
+    "dependencies": {
+    }
+}
